@@ -1,0 +1,21 @@
+body {
+  background-color: #F7F7F7;
+}
+
+#masthead {
+  color: white;
+  min-height: 300px;
+  text-align: center;
+}
+
+.content {
+  background-color: white;
+  border-radius: 4px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+section {
+  /* Remove Chrome's annoying blue focused outline */
+  outline: none !important;
+}

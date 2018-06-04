@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/sirfaizdat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://faizaand.me
+  * I am sirfaizdat (https://keybase.io/sirfaizdat) on keybase.
+  * I have a public key ASBYrFnRcfC9IYzSyNDW6hefSNT7ty9G9s4jSwkR-0PbMgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012058ac59d171f0bd218cd2c8d0d6ea179f48d4fbb72f46f6ce234b0911fb43db320a",
+      "host": "keybase.io",
+      "kid": "012058ac59d171f0bd218cd2c8d0d6ea179f48d4fbb72f46f6ce234b0911fb43db320a",
+      "uid": "79d6026f97db896aac1cf4b0f176c819",
+      "username": "sirfaizdat"
+    },
+    "merkle_root": {
+      "ctime": 1514312915,
+      "hash": "e4ecaa0e1df1760472ba9884f43404c5589e1fa7e25b886899a70febea5876bd5196d54a7eb4f3ad4b5f5a755e5ae946d7b1d981d9ba04aeabac32eb718aa407",
+      "hash_meta": "4177947dd91dbcb3282f59d249eb5559fbedd303ca1032d91f836d64de8c5b50",
+      "seqno": 1858991
+    },
+    "service": {
+      "hostname": "faizaand.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514312937,
+  "expire_in": 504576000,
+  "prev": "a89d6d6d64312f939b807016c1df717c7b23a8f3520a90cdd5994a356773b8bf",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWKxZ0XHwvSGM0sjQ1uoXn0jU+7cvRvbOI0sJEftD2zIKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNThhYzU5ZDE3MWYwYmQyMThjZDJjOGQwZDZlYTE3OWY0OGQ0ZmJiNzJmNDZmNmNlMjM0YjA5MTFmYjQzZGIzMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNThhYzU5ZDE3MWYwYmQyMThjZDJjOGQwZDZlYTE3OWY0OGQ0ZmJiNzJmNDZmNmNlMjM0YjA5MTFmYjQzZGIzMjBhIiwidWlkIjoiNzlkNjAyNmY5N2RiODk2YWFjMWNmNGIwZjE3NmM4MTkiLCJ1c2VybmFtZSI6InNpcmZhaXpkYXQifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTQzMTI5MTUsImhhc2giOiJlNGVjYWEwZTFkZjE3NjA0NzJiYTk4ODRmNDM0MDRjNTU4OWUxZmE3ZTI1Yjg4Njg5OWE3MGZlYmVhNTg3NmJkNTE5NmQ1NGE3ZWI0ZjNhZDRiNWY1YTc1NWU1YWU5NDZkN2IxZDk4MWQ5YmEwNGFlYWJhYzMyZWI3MThhYTQwNyIsImhhc2hfbWV0YSI6IjQxNzc5NDdkZDkxZGJjYjMyODJmNTlkMjQ5ZWI1NTU5ZmJlZGQzMDNjYTEwMzJkOTFmODM2ZDY0ZGU4YzViNTAiLCJzZXFubyI6MTg1ODk5MX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJmYWl6YWFuZC5tZSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM4In0sImN0aW1lIjoxNTE0MzEyOTM3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImE4OWQ2ZDZkNjQzMTJmOTM5YjgwNzAxNmMxZGY3MTdjN2IyM2E4ZjM1MjBhOTBjZGQ1OTk0YTM1Njc3M2I4YmYiLCJzZXFubyI6MTYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAFmIcSC/NSbvi9X3M/49vkL8vPLRPfZMB8ynZZ9/hDllyyyQyiJ+775vsgEZ46v9tCdkKzdkCCUXDb8MTkPNuCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIoDTci5sOcsqv/lWTqU5hcBT5e/tcfHMBqfchy0r8V9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sirfaizdat
+
+==================================================================

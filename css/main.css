@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Zilla+Slab');
+
+/*
+ * -------------------
+ * General Styling
+ * -------------------
+ */
+
+body {
+  background-color: #F7F7F7;
+  overflow-x: hidden;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Zilla Slab', serif;
+}
+
+h1 {
+  font-size: 2.250em;
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.visible-xs .visible-xs-inline {
+  display: inline-block !important;
+}
+
+/*
+ * -------------------
+ * Social media icons
+ * -------------------
+ */
+
+.social {
+  font-size: 24px;
+}
+
+.twitter a {
+  color: #00aced !important;
+}
+
+.twitter a:hover {
+  color: #1dcaff !important;
+}
+
+.quora a {
+  color: #aa2200 !important;
+}
+
+.quora a:hover {
+  color: #d93818 !important;
+}
+
+
+/*
+ * -------------------
+ * Masthead
+ * -------------------
+ */
+
+#masthead {
+  padding: auto;
+
+  background: #DCE35B;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #45B649, #DCE35B);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #45B649, #DCE35B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  color: #333;
+  min-height: 500px;
+  margin-bottom: 0;
+
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+#profile-face {
+  max-width: 200px;
+}
+
+#main-header {
+  padding-left: 100px;
+}
+
+@media only screen and (max-width: 1000px){
+  #profile-wrapper {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 50px;
+  }
+
+  #main-header{
+    padding-left: 5px;
+    text-align: center;
+  }
+}
+
+/*
+ * -------------------
+ * Projects
+ * -------------------
+ */
+
+#projects {
+  margin-top: 20px;
+}
+
+#projects .media {
+  background-color: white;
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+#projects h2 {
+  display: inline;
+}
+
+.spacer {
+  min-height: 7px;
+  display: block;
+}
+
+.media-object {
+  margin-right: 20px;
+}
+
+/*
+* -------------------
+* Footer
+* -------------------
+*/
+
+footer {
+  text-align: center;
+  color: #5E5E5E;
+  padding: 5px;
+}
